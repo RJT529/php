@@ -3,7 +3,7 @@
 
 	$mysql_host = "localhost";
 	$mysql_user = 'root';		//add the username 
-	$mysql_pass = 'abc123';		//add the password accordingly
+	$mysql_pass = '';		//add the password accordingly
 
 	$mysql_db = 'a_demo';
 
